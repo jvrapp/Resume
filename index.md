@@ -27,16 +27,38 @@ layout: default
 
 ### Skills Tech
 
-### Grainest - Upcycling Foods
+### [Grainest - Upcycling Foods](https://revistadigital.mx/emprendedor/consciencia-para-un-mundo-mejor/#part0)
 
 ### Novak Innovation
 
 &nbsp;
 ## Projects:
 
-### NLP:
-### Cklass:
-### ITS
+### Hate Speech Recognition on Tweeter:
+
+### Delfos - Fashion Demand Forecasting:
+Worked with the mexican company Cklass to devlop a pilot forecasting model for their fashion business, _aiming to reduce the waste and the logistics efforts_. 
+* Worked with **+200M transaction registers**, using Pandas and Numpy to clean and transform the data.
+* Applied algorithms: 
+    * **K-prototypes** for clustering
+    * **NeuralProphet** for forecasting 
+* Obtained results:
+    * Clustering **silhouette score = 0.23**
+    * Forecasting average **RMSE = 1.5** pieces a week.
+* Deployed the pilot **using Gradio app** to test with users
+
+### Individual Tree Detection with LiDAR: 
 
 &nbsp;
 ## Skills:
+
+&nbsp;
+## Awards:
+* Finalist  - **[Corona Challenge 2021](https://elexpres.com/2015/nota.php?story_id=242257)** - AB Inbev LATAM
+* 1st place - **Data Science Challenge** - Hack Mty 2020 
+* Semi finalist - **Heineken Green Challenge 2019**
+
+&nbsp;
+## Certifications:
+* **Strategic innovation 2021** - Novak Innovation 
+* **[Conscious capitalism](https://courses.edx.org/certificates/b80ba81c88804251be8a76fc06883dc4)** - Babson College
