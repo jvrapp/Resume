@@ -9,7 +9,7 @@ layout: default
 
 ### Tecnological Institute and of Higher Studies of Monterrey, Campus Guadalajara
 **_Bachelor in Business Intelligence_** | August 2019 ‑ December 2022
-* Minor in AI applied in business
+* Minor in Artificial Intelligence applied in business
 * Cumulative Average: 96.5/100
 
 ### Skills Tech
