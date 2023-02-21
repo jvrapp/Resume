@@ -27,25 +27,25 @@ Agro-Waste Upcycling Venture
 ### Research Intern
 **_Novak Innovation_** | Nov 2020 ‑ Feb 2021 | Remote
 
-- Fast learning
-
-
+Consulting firm specialized in innovation
+* Conducted _future foresight research_ for companies in several industries. 
 
 &nbsp;
+
 ## Data Science Projects:
 
-### Hate Speech Recognition on Tweeter:
-Pet Project to work with unstructured data
+### **Hate Speech Recognition on Tweeter:**
+Applied BERT transformer to _process unstructured data_, and implemented multiple machine learning methods to increase accuracy in detecting hate speech in tweets, **achieving a 0.68 F1-score.**
 
-### Delfos - Fashion Demand Forecasting:
+### **Delfos - Fashion Demand Forecasting:**
 Worked with a mexican fashion company  to devlop a pilot for a demand forecasting model, _aiming to **reduce waste** and the logistics efforts_. 
 * Worked with **+200M transaction registers** (using Dask)
 * Obtained average **RMSE of 1.5** colthing pieces a week for cluster. 
 * Deployed the pilot **using Gradio app** to test with users
 
-### Individual Tree Detection with LiDAR: 
+### **Individual Tree Detection with LiDAR:**
 
-Pet Project 
+Processed LiDAR data for Amazonian rainforest to identify tree locations and count, using Python to implement Popescu Local Filtering with Variable Window Size algorithm.
 
 &nbsp;
 
