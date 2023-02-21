@@ -15,11 +15,15 @@ EdTech startup focused on developing data oriented talent.
 * Led sales efforts, achieving an average of 22% month-over-month growth.
 
 ### Co-Founder & Product Leader:
-[**_Grainest - Upcycling Foods_**](https://revistadigital.mx/emprendedor/consciencia-para-un-mundo-mejor/#part0) | Jul 2019 ‑ May 2021 | Querétaro, Mex.
+[**_Grainest - Upcycling Foods_**](https://revistadigital.mx/emprendedor/consciencia-para-un-mundo-mejor/#part0) | Jul 2019 ‑ May 2021 | Querétaro, Mexico
 
-Systems thinking + Ecology + Build
+Agro-Waste Upcycling Venture
 
-* 
+* Applied systems thinking frameworks to design and test _upcycling solutions_ for companies like **AB InBev LATAM.**
+
+* Led product development efforts and achieved product adoption in over 10 retail companies.
+
+
 
 ### Research Intern
 **_Novak Innovation_** | Nov 2020 ‑ Feb 2021 | Remote
