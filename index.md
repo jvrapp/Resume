@@ -10,8 +10,8 @@ layout: default
 **_Skills Tech_** | Feb 2019 ‑ Present | San Francisco, CA. / Remote
 
 EdTech startup focused on developing data oriented talent. 
-* Generated a data-driven company strategy, emphasizing effective excecution and testing.
-* Built an employability infrastructure alongside my team to help customers repay their educational loans. 
+* Generated a data-driven company strategy, emphasizing effective execution and testing.
+* Built an employability infrastructure with my team to help customers repay their educational loans. 
 * Led sales efforts, achieving an average of 22% month-over-month growth.
 
 ### Co-Founder & Product Leader:
@@ -34,13 +34,13 @@ Consulting firm specialized in innovation
 
 ## Data Science Projects:
 
-### **Hate Speech Recognition on Tweeter:**
+### **Hate Speech Recognition on Twitter:**
 Applied BERT transformer to _process unstructured data_, and implemented multiple machine learning methods to increase accuracy in detecting hate speech in tweets, **achieving a 0.68 F1-score.**
 
 ### **Delfos - Fashion Demand Forecasting:**
-Worked with a mexican fashion company  to devlop a pilot for a demand forecasting model, _aiming to **reduce waste** and the logistics efforts_. 
+Worked with a mexican fashion company  to develop a pilot for a demand forecasting model, _aiming to **reduce waste** and the logistics efforts_. 
 * Worked with **+200M transaction registers** (using Dask)
-* Obtained average **RMSE of 1.5** colthing pieces a week for cluster. 
+* Obtained average **RMSE of 1.5** clothing pieces a week for cluster. 
 * Deployed the pilot **using Gradio app** to test with users
 
 ### **Individual Tree Detection with LiDAR:**
@@ -57,7 +57,7 @@ Processed LiDAR data for Amazonian rainforest to identify tree locations and cou
 * Cumulative Average: 96.5/100
 
 ### Skills Tech
-**_Intesive Data Science Program_** | Sep 2021 ‑ Jun 2022
+**_Intensive Data Science Program_** | Sep 2021 ‑ Jun 2022
 * Learned to design, create and implement end to end data science projects for companies
 
 ### Novak Innovation
