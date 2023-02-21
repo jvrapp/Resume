@@ -2,43 +2,50 @@
 layout: default
 ---
 
-
 &nbsp;
 
 ## Formation:
 
-### Tecnological Institute and of Higher Studies of Monterrey, Campus Guadalajara
+### Tecnological Institute and of Higher Studies of Monterrey
 **_Bachelor in Business Intelligence_** | August 2019 ‑ December 2022
 * Minor in Artificial Intelligence applied to business
 * Cumulative Average: 96.5/100
 
 ### Skills Tech
 **_Intesive Data Science Program_** | September 2021 ‑ June 2022
-* Learning to design, create and implement data science projects for companies
+* Learned to design, create and implement end to end data science projects for companies
 
 ### Novak Innovation
 **_Strategic Innovation Program_** | June 2021 ‑ August 2021
-* Reviewed Jobs‑To‑Be‑Done based innovation methodologies, ideation methodologies, test experiment design and product communication
+* Learned Jobs-To-Be-Done innovation methodologies, data-driven experiment design, and efficient product communication.
 
 
 &nbsp;
 
 ## Professional Experience:
 
-### Skills Tech
+### Skills Tech: - startup work culture (work and build) + Tech + Fast learning
 
-### [Grainest - Upcycling Foods](https://revistadigital.mx/emprendedor/consciencia-para-un-mundo-mejor/#part0)
+* Strategy desgin
+* Build employability infraestructure
+* Sales - 22% MoM 
 
-### Novak Innovation
+### [Grainest - Upcycling Foods:](https://revistadigital.mx/emprendedor/consciencia-para-un-mundo-mejor/#part0) Systems thinking + Ecology + Build
+
+* 
+
+### Novak Innovation: - Fast learning
+
+* 
 
 &nbsp;
-## Projects:
+## Data Science Projects:
 
 ### Hate Speech Recognition on Tweeter:
 
 ### Delfos - Fashion Demand Forecasting:
-Worked with the mexican company Cklass to devlop a pilot forecasting model for their fashion business, _aiming to reduce the waste and the logistics efforts_. 
-* Worked with **+200M transaction registers**, using Pandas and Numpy to clean and transform the data.
+Worked with a mexican fashion company  to devlop a pilot for a demand forecasting model, _aiming to reduce waste and the logistics efforts_. 
+* Worked with **+200M transaction registers**
 * Applied algorithms: 
     * **K-prototypes** for clustering
     * **NeuralProphet** for forecasting 
@@ -51,6 +58,16 @@ Worked with the mexican company Cklass to devlop a pilot forecasting model for t
 
 &nbsp;
 ## Skills:
+
+### Software tools:
+
+* GIS - GitHub - Google Colab - Jupyter Notebooks 
+
+### Programming languages: 
+- Python & R - Intermediate
+
+### Learning: 
+* GeoPandas - Xarray - Dask - Kubernetes - Rasterio
 
 &nbsp;
 ## Awards:
