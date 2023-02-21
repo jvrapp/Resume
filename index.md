@@ -69,9 +69,8 @@ Pet Project
 
 ## Skills:
 - Python - ML & Statistics fundamentals - Academic literature research & knowledge implementation - Scrum - Systems Thinking
- 
-### Learning: 
-* GeoPandas - Xarray - Dask - Kubernetes - Rasterio
+
+* **Learning:** GeoPandas - Xarray - Dask - Kubernetes - Rasterio
 
 ## Software tools:
 
