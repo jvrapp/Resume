@@ -7,7 +7,7 @@ layout: default
 ## Professional Experience:
 
 ### Head of Customer Success & Business Analyst
-**_Skills Tech_** | Feb 2019 ‑ Present | San Francisco, CA.
+**_Skills Tech_** | Feb 2019 ‑ Present | San Francisco, CA. / Remote
 
 EdTech startup focused on developing data oriented talent. 
 * Generated a data-driven company strategy, emphasizing effective excecution and testing.
@@ -22,7 +22,6 @@ Agro-Waste Upcycling Venture
 * Applied systems thinking frameworks to design and test _upcycling solutions_ for companies like **AB InBev LATAM.**
 
 * Led product development efforts and achieved product adoption in over 5 retail companies.
-
 
 
 ### Research Intern
@@ -68,18 +67,14 @@ Pet Project
 
 &nbsp;
 
-
 ## Skills:
-
-### Software tools:
-
-* GIS - GitHub - Google Colab Pro - Jupyter Notebooks 
-
-### Programming languages: 
-- Python & R - Intermediate
-
+- Python - ML & Statistics fundamentals - Academic literature research & knowledge implementation - Scrum - Systems Thinking 
 ### Learning: 
 * GeoPandas - Xarray - Dask - Kubernetes - Rasterio
+
+## Software tools:
+
+* GitHub - Google Colab Pro - Jupyter Notebooks 
 
 &nbsp;
 ## Awards:
