@@ -20,7 +20,6 @@ EdTech startup focused on developing data oriented talent.
 Agro-Waste Upcycling Venture
 
 * Applied systems thinking frameworks to design and test _upcycling solutions_ for companies like **AB InBev LATAM.**
-
 * Led product development efforts and achieved product adoption in over 5 retail companies.
 
 
