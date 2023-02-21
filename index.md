@@ -7,16 +7,16 @@ layout: default
 ## Formation:
 
 ### Tecnological Institute and of Higher Studies of Monterrey
-**_Bachelor in Business Intelligence_** | August 2019 ‑ December 2022
+**_Bachelor in Business Intelligence_** | Aug 2019 ‑ Dec 2022
 * Minor in Artificial Intelligence applied to business
 * Cumulative Average: 96.5/100
 
 ### Skills Tech
-**_Intesive Data Science Program_** | September 2021 ‑ June 2022
+**_Intesive Data Science Program_** | Sep 2021 ‑ Jun 2022
 * Learned to design, create and implement end to end data science projects for companies
 
 ### Novak Innovation
-**_Strategic Innovation Program_** | June 2021 ‑ August 2021
+**_Strategic Innovation Program_** | Jun 2021 ‑ Aug 2021
 * Learned Jobs-To-Be-Done innovation methodologies, data-driven experiment design, and efficient product communication.
 
 
@@ -24,44 +24,50 @@ layout: default
 
 ## Professional Experience:
 
-### Skills Tech: - startup work culture (work and build) + Tech + Fast learning
+### Joker Card
+**_Skills Tech_** | Feb 2019 ‑ Present
+ - startup work culture (work and build) + Tech + Fast learning
 
 * Strategy desgin
 * Build employability infraestructure
 * Sales - 22% MoM 
 
-### [Grainest - Upcycling Foods:](https://revistadigital.mx/emprendedor/consciencia-para-un-mundo-mejor/#part0) Systems thinking + Ecology + Build
+### Co-Founder & Product Leader:
+[**_Grainest - Upcycling Foods_**](https://revistadigital.mx/emprendedor/consciencia-para-un-mundo-mejor/#part0) | Jul 2019 ‑ May 2021
+
+Systems thinking + Ecology + Build
 
 * 
 
-### Novak Innovation: - Fast learning
+### Research Intern
+**_Novak Innovation_** | Nov 2020 ‑ Feb 2021
 
-* 
+- Fast learning
+
+
 
 &nbsp;
 ## Data Science Projects:
 
 ### Hate Speech Recognition on Tweeter:
+Pet Project to work with unstructured data
 
 ### Delfos - Fashion Demand Forecasting:
 Worked with a mexican fashion company  to devlop a pilot for a demand forecasting model, _aiming to reduce waste and the logistics efforts_. 
-* Worked with **+200M transaction registers**
-* Applied algorithms: 
-    * **K-prototypes** for clustering
-    * **NeuralProphet** for forecasting 
-* Obtained results:
-    * Clustering **silhouette score = 0.23**
-    * Forecasting average **RMSE = 1.5** pieces a week.
+* Worked with **+200M transaction registers** (using Dask)
+* Obtained average **RMSE of 1.5** colthing pieces a week for cluster. 
 * Deployed the pilot **using Gradio app** to test with users
 
 ### Individual Tree Detection with LiDAR: 
+
+Pet Project 
 
 &nbsp;
 ## Skills:
 
 ### Software tools:
 
-* GIS - GitHub - Google Colab - Jupyter Notebooks 
+* GIS - GitHub - Google Colab Pro - Jupyter Notebooks 
 
 ### Programming languages: 
 - Python & R - Intermediate
