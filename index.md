@@ -4,6 +4,48 @@ layout: default
 
 &nbsp;
 
+## Professional Experience:
+
+### Head of Customer Success & Business Analyst
+**_Skills Tech_** | Feb 2019 ‑ Present | San Francisco, CA.
+
+EdTech startup focused on developing data oriented talent. 
+* Generated a data-driven company strategy, emphasizing effective excecution and testing.
+* Built an employability infrastructure alongside my team to help customers repay their educational loans. 
+* Led sales efforts, achieving an average of 22% month-over-month growth.
+
+### Co-Founder & Product Leader:
+[**_Grainest - Upcycling Foods_**](https://revistadigital.mx/emprendedor/consciencia-para-un-mundo-mejor/#part0) | Jul 2019 ‑ May 2021 | Querétaro, Mex.
+
+Systems thinking + Ecology + Build
+
+* 
+
+### Research Intern
+**_Novak Innovation_** | Nov 2020 ‑ Feb 2021 | Remote
+
+- Fast learning
+
+
+
+&nbsp;
+## Data Science Projects:
+
+### Hate Speech Recognition on Tweeter:
+Pet Project to work with unstructured data
+
+### Delfos - Fashion Demand Forecasting:
+Worked with a mexican fashion company  to devlop a pilot for a demand forecasting model, _aiming to **reduce waste** and the logistics efforts_. 
+* Worked with **+200M transaction registers** (using Dask)
+* Obtained average **RMSE of 1.5** colthing pieces a week for cluster. 
+* Deployed the pilot **using Gradio app** to test with users
+
+### Individual Tree Detection with LiDAR: 
+
+Pet Project 
+
+&nbsp;
+
 ## Formation:
 
 ### Tecnological Institute and of Higher Studies of Monterrey
@@ -22,47 +64,7 @@ layout: default
 
 &nbsp;
 
-## Professional Experience:
 
-### Joker Card
-**_Skills Tech_** | Feb 2019 ‑ Present
- - startup work culture (work and build) + Tech + Fast learning
-
-* Strategy desgin
-* Build employability infraestructure
-* Sales - 22% MoM 
-
-### Co-Founder & Product Leader:
-[**_Grainest - Upcycling Foods_**](https://revistadigital.mx/emprendedor/consciencia-para-un-mundo-mejor/#part0) | Jul 2019 ‑ May 2021
-
-Systems thinking + Ecology + Build
-
-* 
-
-### Research Intern
-**_Novak Innovation_** | Nov 2020 ‑ Feb 2021
-
-- Fast learning
-
-
-
-&nbsp;
-## Data Science Projects:
-
-### Hate Speech Recognition on Tweeter:
-Pet Project to work with unstructured data
-
-### Delfos - Fashion Demand Forecasting:
-Worked with a mexican fashion company  to devlop a pilot for a demand forecasting model, _aiming to reduce waste and the logistics efforts_. 
-* Worked with **+200M transaction registers** (using Dask)
-* Obtained average **RMSE of 1.5** colthing pieces a week for cluster. 
-* Deployed the pilot **using Gradio app** to test with users
-
-### Individual Tree Detection with LiDAR: 
-
-Pet Project 
-
-&nbsp;
 ## Skills:
 
 ### Software tools:
