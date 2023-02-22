@@ -71,7 +71,7 @@ Processed LiDAR data for Amazonian rainforest to identify tree locations and cou
 
 * **Learning:** GeoPandas - Xarray - Dask - Kubernetes - Rasterio
 
-## Software tools:
+### Software tools:
 
 * GitHub - Google Colab Pro - Jupyter Notebooks 
 
