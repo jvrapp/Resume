@@ -48,7 +48,7 @@ Processed LiDAR data for Amazonian rainforest to identify tree locations and cou
 
 &nbsp;
 
-## Formation:
+## Education:
 
 ### Tecnological Institute and of Higher Studies of Monterrey
 **_Bachelor in Business Intelligence_** | Aug 2019 ‑ Dec 2022
@@ -67,13 +67,11 @@ Processed LiDAR data for Amazonian rainforest to identify tree locations and cou
 &nbsp;
 
 ## Skills:
-- Python - ML & Statistics fundamentals - Academic literature research & knowledge implementation - Scrum - Systems Thinking
+- Python - ML & Statistics fundamentals - Academic literature research & knowledge implementation - Scrum - Systems Thinking - GitHub - Google Colab Pro - Jupyter Notebooks 
 
 * **Learning:** GeoPandas - Xarray - Dask - Kubernetes - Rasterio
 
-### Software tools:
 
-* GitHub - Google Colab Pro - Jupyter Notebooks 
 
 &nbsp;
 ## Awards:
