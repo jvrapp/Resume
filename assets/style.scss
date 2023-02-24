@@ -1,0 +1,19 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* Sets the font color for headings */
+h1, h2 {
+  color: #4DBC5D;
+}
+
+/* Sets the font color for links */
+a {
+  color: #4DBC5D;
+}
+
+/* Sets the font color for visited links */
+a:visited {
+  color: #4DBC5D;
+}
