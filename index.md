@@ -33,7 +33,7 @@ Consulting firm specialized in innovation
 
 ## Data Science Projects:
 
-### **Hate Speech Recognition on Twitter:**
+### **[Hate Speech Recognition on Twitter:](https://github.com/jvrapp/NLP-4-Hate-Speech-Recognition)**
 Applied BERT transformer to _process unstructured data_, and implemented multiple machine learning methods to increase accuracy in detecting hate speech in tweets, **achieving a 0.68 F1-score.**
 
 ### **Delfos - Fashion Demand Forecasting:**
