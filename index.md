@@ -7,12 +7,12 @@ layout: default
 ## Professional Experience:
 
 ### Head of Customer Success & Business Analyst
-**_Skills Tech_** | Feb 2019 ‑ Present | San Francisco, CA. / Remote
+[**_Skills Tech_**](https://www.skills.tech/for-companies) | Feb 2019 ‑ Present | San Francisco, CA. 
 
-EdTech startup focused on developing data oriented talent. 
+EdTech startup focused on developing an placing data oriented talent. 
 * Generated a data-driven company strategy, emphasizing effective execution and testing.
-* Built an employability infrastructure with my team to help customers repay their educational loans. 
-* Led sales efforts, achieving an average of 22% month-over-month growth.
+* Built placement infrastructure to boost customer payment by 12%. 
+* Led sales efforts, achieving an average of 23% month-over-month growth.
 
 ### Co-Founder & Product Leader:
 [**_Grainest - Upcycling Foods_**](https://revistadigital.mx/emprendedor/consciencia-para-un-mundo-mejor/#part0) | Jul 2019 ‑ May 2021 | Querétaro, Mexico
@@ -44,7 +44,7 @@ Worked with a mexican fashion company  to develop a pilot for a demand forecasti
 
 ### **Individual Tree Detection with LiDAR:**
 
-Processed LiDAR data for Amazonian rainforest to identify tree locations and count, using Python to implement Popescu Local Filtering with Variable Window Size algorithm.
+Processed LiDAR data for Amazonian rainforest to identify tree locations and count, using Python to implement Popescu Local Filtering with Fixed Window Size algorithm.
 
 &nbsp;
 
@@ -52,34 +52,39 @@ Processed LiDAR data for Amazonian rainforest to identify tree locations and cou
 
 ### Tecnological Institute and of Higher Studies of Monterrey
 **_Bachelor in Business Intelligence_** | Aug 2019 ‑ Dec 2022
-* Minor in Artificial Intelligence applied to business
+* Minor in Artificial Intelligence applied to business.
 * Cumulative Average: 96.5/100
 
 ### Skills Tech
 **_Intensive Data Science Program_** | Sep 2021 ‑ Jun 2022
-* Learned to design, create and implement end to end data science projects for companies
+* Learned to design, create and implement end to end data science projects for companies.
 
 ### Novak Innovation
 **_Strategic Innovation Program_** | Jun 2021 ‑ Aug 2021
 * Learned Jobs-To-Be-Done innovation methodologies, data-driven experiment design, and efficient product communication.
 
-
 &nbsp;
 
 ## Skills:
-- Python - ML & Statistics fundamentals - Academic literature research & knowledge implementation - Scrum - Systems Thinking - GitHub - Google Colab Pro - Jupyter Notebooks 
+### Software Tools:
+- Python - R - PyTorch - Scikit-learn - GitHub - Google Colab Pro - Jupyter Notebooks - VSCode 
 
 * **Learning:** GeoPandas - Xarray - Dask - Kubernetes - Rasterio
 
+### Competencies:
+- ML & Statistics fundamentals - Academic literature research & knowledge implementation - Scrum - Systems Thinking
 
+&nbsp;
+## Volunteering:
+* [**Collaborative Earth - Beaver Lab:**](https://www.collaborative.earth/lab-beaver) - Helping to apply CNNs to identify beaver dams, aiming to understand how the change in the water flow impacts the sorrounding environment.
 
 &nbsp;
 ## Awards:
-* Finalist  - **[Corona Challenge 2021](https://elexpres.com/2015/nota.php?story_id=242257)** - AB Inbev LATAM
-* 1st place - **Data Science Challenge** - Hack Mty 2020 
-* Semi finalist - **Heineken Green Challenge 2019**
+* Finalist  - **[Corona Challenge 2021](https://elexpres.com/2015/nota.php?story_id=242257)** - AB Inbev LATAM.
+* 1st place - **Data Science Challenge** - Hack Mty 2020. 
+* Semi finalist - **Heineken Green Challenge 2019**.
 
 &nbsp;
 ## Certifications:
-* **Strategic innovation 2021** - Novak Innovation 
-* **[Conscious capitalism](https://courses.edx.org/certificates/b80ba81c88804251be8a76fc06883dc4)** - Babson College
+* **Strategic innovation 2021** - Novak Innovation. 
+* **[Conscious capitalism](https://courses.edx.org/certificates/b80ba81c88804251be8a76fc06883dc4)** - Babson College.
