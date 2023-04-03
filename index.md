@@ -42,7 +42,7 @@ Worked with a mexican fashion company  to develop a pilot for a demand forecasti
 * Obtained average **RMSE of 1.5** clothing pieces a week for cluster. 
 * Deployed the pilot **using Gradio app** to test with users
 
-### **Individual Tree Detection with LiDAR:**
+### **[Individual Tree Detection with LiDAR:](https://github.com/jvrapp/LiDAR_Individual_Tree_Detection)**
 
 Processed LiDAR data for Amazonian rainforest to identify tree locations and count, using Python to implement Popescu Local Filtering with Fixed Window Size algorithm.
 
@@ -66,6 +66,9 @@ Processed LiDAR data for Amazonian rainforest to identify tree locations and cou
 &nbsp;
 
 ## Skills:
+### Softare Tools:
+- Python - ML & Statistics fundamentals - Academic literature research & knowledge implementation - Scrum - Systems Thinking - GitHub - Google Colab Pro - Jupyter Notebooks 
+
 ### Software Tools:
 - Python - R - PyTorch - Scikit-learn - GitHub - Google Colab Pro - Jupyter Notebooks - VSCode 
 
