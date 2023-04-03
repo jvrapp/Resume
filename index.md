@@ -66,8 +66,6 @@ Processed LiDAR data for Amazonian rainforest to identify tree locations and cou
 &nbsp;
 
 ## Skills:
-### Softare Tools:
-- Python - ML & Statistics fundamentals - Academic literature research & knowledge implementation - Scrum - Systems Thinking - GitHub - Google Colab Pro - Jupyter Notebooks 
 
 ### Software Tools:
 - Python - R - PyTorch - Scikit-learn - GitHub - Google Colab Pro - Jupyter Notebooks - VSCode 
