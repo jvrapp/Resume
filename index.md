@@ -35,7 +35,7 @@ Consulting firm specialized in innovation
 
 ### **[Individual Tree Detection with LiDAR:](https://github.com/jvrapp/LiDAR_Individual_Tree_Detection)**
 
-Processed LiDAR data for Amazonian rainforest to identify tree locations and count, using Python to implement Popescu Local Filtering with Fixed Window Size algorithm.
+Processed **LiDAR data** for Amazonian rainforest to **identify tree locations** and count, using Python to implement Popescu Local Filtering with Fixed Window Size algorithm.
 
 ### **[Hate Speech Recognition on Twitter:](https://colab.research.google.com/drive/1nEj3viXrOFa5o5fxXEGjDNCOOvPKb2up?usp=sharing)**
 Applied BERT transformer to _process unstructured data_, and implemented multiple machine learning methods to increase accuracy in detecting hate speech in tweets, **achieving a 0.68 F1-score.**
