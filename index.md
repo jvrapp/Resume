@@ -33,18 +33,19 @@ Consulting firm specialized in innovation
 
 ## Data Science Projects:
 
+### **[Individual Tree Detection with LiDAR:](https://github.com/jvrapp/LiDAR_Individual_Tree_Detection)**
+
+Processed LiDAR data for Amazonian rainforest to identify tree locations and count, using Python to implement Popescu Local Filtering with Fixed Window Size algorithm.
+
 ### **[Hate Speech Recognition on Twitter:](https://colab.research.google.com/drive/1nEj3viXrOFa5o5fxXEGjDNCOOvPKb2up?usp=sharing)**
 Applied BERT transformer to _process unstructured data_, and implemented multiple machine learning methods to increase accuracy in detecting hate speech in tweets, **achieving a 0.68 F1-score.**
 
 ### **Delfos - Fashion Demand Forecasting:**
 Worked with a mexican fashion company  to develop a pilot for a demand forecasting model, _aiming to **reduce waste** and the logistics efforts_. 
-* Worked with **+200M transaction registers** (using Dask)
+* Worked with **+200M transaction registers** 
 * Obtained average **RMSE of 1.5** clothing pieces a week for cluster. 
 * Deployed the pilot **using Gradio app** to test with users
 
-### **[Individual Tree Detection with LiDAR:](https://github.com/jvrapp/LiDAR_Individual_Tree_Detection)**
-
-Processed LiDAR data for Amazonian rainforest to identify tree locations and count, using Python to implement Popescu Local Filtering with Fixed Window Size algorithm.
 
 &nbsp;
 
