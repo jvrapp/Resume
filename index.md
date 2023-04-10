@@ -38,7 +38,7 @@ Consulting firm specialized in innovation
 Processed **LiDAR data** for Amazonian rainforest to **identify tree locations** and count, using Python to implement Popescu Local Filtering with Fixed Window Size algorithm.
 
 ### **[Hate Speech Recognition on Twitter:](https://colab.research.google.com/drive/1nEj3viXrOFa5o5fxXEGjDNCOOvPKb2up?usp=sharing)**
-Applied BERT transformer to _process unstructured data_, and implemented multiple machine learning methods to increase accuracy in detecting hate speech in tweets, **achieving a 0.68 F1-score.**
+Applied BERT transformer to _process unstructured data_, and implemented multiple machine learning methods to increase accuracy in detecting hate speech in tweets, **achieving a 0.70 F1-score.**
 
 ### **Delfos - Fashion Demand Forecasting:**
 Worked with a mexican fashion company  to develop a pilot for a demand forecasting model, _aiming to **reduce waste** and the logistics efforts_. 
@@ -74,7 +74,7 @@ Worked with a mexican fashion company  to develop a pilot for a demand forecasti
 * **Learning:** GeoPandas - Xarray - Dask - Kubernetes - Rasterio
 
 ### Competencies:
-- ML & Statistics fundamentals - Academic literature research & knowledge implementation - Scrum - Systems Thinking
+- ML & Statistics fundamentals - Academic literature research & knowledge implementation - Scrum - Systems Thinking - Prompt Engineering
 
 &nbsp;
 ## Volunteering:
@@ -90,3 +90,7 @@ Worked with a mexican fashion company  to develop a pilot for a demand forecasti
 ## Certifications:
 * **Strategic innovation 2021** - Novak Innovation. 
 * **[Conscious capitalism](https://courses.edx.org/certificates/b80ba81c88804251be8a76fc06883dc4)** - Babson College.
+
+&nbsp;
+## Interests / Hobbies:
+* Mushroom cultivation - Mycology
